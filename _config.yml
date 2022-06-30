@@ -22,11 +22,11 @@ subtitle                 : "expressing my space of reasons"
 name                     : "Seoyeon Park"
 description              : "Seoyeon's personal blog to record and discuss philosophical discourses"
 url                      : "https://Seo-yeon-Park.github.io"
-baseurl                  : "Welcome to Seoyeon Park" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Seo-yeon-Park/Seo-yeon-Park.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/IMG_5669.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/IMG_5216.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Welcome to Seoyeon Park" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
