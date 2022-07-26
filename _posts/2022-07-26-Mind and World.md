@@ -2,7 +2,7 @@
 layout: single
 title: "Mind and World"
 categories: Epistemology
-tags: reading group
+tags: reading
 ---
 
 In <I>Mind and World</I> (1994), McDowell tries to explain the relation between mind and world - very broad and difficult topic!
